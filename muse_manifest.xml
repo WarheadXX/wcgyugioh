@@ -1,10 +1,10 @@
-<manifest alg="2" build="2017.0.3.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="wgcyugioh.com" resolutions="1x" timestamp="1540113155553">
+<manifest alg="2" build="2017.0.3.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="wgcyugioh.com" resolutions="1x" timestamp="1540154157616">
   <folder name="assets">
     <file name="yg2.apk" crc="535085037" seo="true" mt="1540001956000"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
-    <file name="index.css" crc="4162835952" ref="index"/>
+    <file name="index.css" crc="275490589" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -29,6 +29,13 @@
     <file name="download.jpg" crc="4083164579" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="ico.png" crc="323137256" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted image 1363x595.jpg" crc="222991861" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="favicon.ico" crc="3822740069" ref="index"/>
   </folder>
-  <file name="index.html" crc="385047198" seo="true" mt="1540112714617" redirect="true"/>
+  <file name="index.html" crc="3775040977" seo="true" mt="1540153942873" redirect="true"/>
 </manifest>
